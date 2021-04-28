@@ -1,0 +1,23 @@
+===================================
+|   | Place                       |
+===================================
+| 0 | 3 km ESE of Big Lake, Alaska|
+| 1 | 3km WSW of Cobb, CA         |
+| 2 | 14km E of Ridgecrest, CA    |
+| 3 | 3km NNW of The Geysers, CA  |
+| 4 | 2 km ESE of Pāhala, Hawaii  |
+===================================
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+======================================
+|   | Sub Area              | Area   |
+======================================
+| 0 | 3 km ESE of Big Lake  | Alaska |
+| 1 | 3km WSW of Cobb       | CA     |
+| 2 | 14km E of Ridgecrest  | CA     |
+| 3 | 3km NNW of The Geysers| CA     |
+| 4 | 2 km ESE of Pāhala    | Hawaii |
+======================================
