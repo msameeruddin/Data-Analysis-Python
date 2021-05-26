@@ -1,0 +1,17 @@
+Supervised Learning
+===================
+
+> Your eyes are open
+> You know that there are symbols on the coin
+
+
+
+#######################################################
+
+
+
+Unsupervised Learning
+=====================
+
+> Your eyes are closed
+> You do not know whether there are symbols on the coin
