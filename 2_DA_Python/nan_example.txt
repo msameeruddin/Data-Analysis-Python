@@ -8,12 +8,19 @@ col1 | col2 | col3
 543  | 667  | 767
 542  |      |    
 ==================
-# sum()
-col1 - 0
-col2 - 2
-col3 - 2
--------------
-# any()
+
+# isnull().any()
 col1 - False
 col2 - True
 col3 - True
+
+-------------
+
+# isnull().sum()
+col1 - 0
+col2 - 2
+col3 - 2
+
+=============
+
+NaN - Not A Number (Missing / Empty value)

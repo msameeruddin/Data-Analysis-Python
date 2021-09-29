@@ -1,11 +1,13 @@
-sunny | No
-sunny | No
-sunny | No
-sunny | Yes
-sunny | Yes
+Total Yes - 9
+Total No - 5
 
-Total Yes = 9
-Total No = 5
+===============
+
+sunny | No
+sunny | No
+sunny | No
+sunny | Yes
+sunny | Yes
 
 sunny_Yes = 2/9
 sunny_No = 3/5
@@ -17,9 +19,6 @@ overcast | Yes
 overcast | Yes
 overcast | Yes
 
-Total Yes = 9
-Total No = 5
-
 overcast_Yes = 4/9
 overcast_No = 0/5
 
@@ -30,9 +29,6 @@ rain | Yes
 rain | No
 rain | Yes
 rain | No
-
-Total Yes = 9
-Total No = 5
 
 rain_Yes = 3/9
 rain_No = 2/5
